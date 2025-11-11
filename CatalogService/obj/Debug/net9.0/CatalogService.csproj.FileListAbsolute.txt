@@ -160,3 +160,8 @@ C:\dev\.net Projects\MicroservicesStore\CatalogService\obj\Debug\net9.0\refint\C
 C:\dev\.net Projects\MicroservicesStore\CatalogService\obj\Debug\net9.0\CatalogService.pdb
 C:\dev\.net Projects\MicroservicesStore\CatalogService\obj\Debug\net9.0\CatalogService.genruntimeconfig.cache
 C:\dev\.net Projects\MicroservicesStore\CatalogService\obj\Debug\net9.0\ref\CatalogService.dll
+C:\dev\.net Projects\MicroservicesStore\CatalogService\obj\Debug\net9.0\CatalogService.sourcelink.json
+C:\dev\.net Projects\MicroservicesStore\CatalogService\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\dev\.net Projects\MicroservicesStore\CatalogService\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\.net Projects\MicroservicesStore\CatalogService\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\.net Projects\MicroservicesStore\CatalogService\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
