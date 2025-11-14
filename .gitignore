@@ -1,1 +1,80 @@
+##############################
+# .NET / ASP.NET Core
+##############################
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.db
+
+##############################
+# Visual Studio
+##############################
 .vs/
+*.user
+*.suo
+*.cache
+*.log
+
+##############################
+# Configuraciones sensibles
+##############################
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+*.env
+
+# Opcional: certificados locales (dotnet dev-certs)
+*.pfx
+
+##############################
+# Entity Framework Core
+##############################
+# Migrations snapshot (si quieres evitar ruido)
+# *ModelSnapshot.cs
+
+# SQL localdb
+*.mdf
+*.ldf
+
+##############################
+# Logs
+##############################
+logs/
+*.log
+
+##############################
+# Docker
+##############################
+docker-compose.override.yml
+**/docker-data/
+**/docker-volume/
+*.pid
+
+##############################
+# API Gateway (Ocelot)
+##############################
+# Cache interno que genera Ocelot
+ocelot.cache.json
+
+##############################
+# Node (si en el futuro metes front)
+##############################
+node_modules/
+npm-debug.log
+yarn-error.log
+
+##############################
+# JetBrains Rider / ReSharper
+##############################
+.idea/
+*.DotSettings.user
+
+##############################
+# Sistema operativo
+##############################
+Thumbs.db
+desktop.ini
+.DS_Store
